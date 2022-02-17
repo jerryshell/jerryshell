@@ -6,5 +6,5 @@
 </a>
 
 <a href="https://afdian.net/@jerryshell" target="_blank">
-<img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-请我喝杯咖啡-%239172D3?style=for-the-badge&logo=Hyper" >
+<img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-请我喝杯咖啡-%2300A1E9?style=for-the-badge&logo=alipay" >
 </a>
