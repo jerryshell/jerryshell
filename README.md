@@ -5,6 +5,6 @@
 <img src="https://img.shields.io/badge/patreon-buy%20me%20a%20coffee-%23FF424D?style=for-the-badge&logo=patreon" >
 </a>
 
-<a href="https://afdian.net/@jerryshell" target="_blank">
-<img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-请我喝杯咖啡-%2300A1E9?style=for-the-badge&logo=alipay" >
+<a href="https://space.bilibili.com/281356255" target="_blank">
+<img src="https://img.shields.io/badge/Bilibili-%E5%85%85%E7%94%B5-%2310ADEC?style=for-the-badge&logo=bilibili" >
 </a>
