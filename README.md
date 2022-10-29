@@ -6,5 +6,5 @@
 </a>
 
 <a href="https://space.bilibili.com/281356255" target="_blank">
-<img src="https://img.shields.io/badge/Bilibili-%E5%85%85%E7%94%B5-%2310ADEC?style=for-the-badge&logo=bilibili" >
+<img src="https://img.shields.io/badge/Bilibili-%E4%B8%BA%E6%88%91%E5%85%85%E7%94%B5-%2310ADEC?style=for-the-badge&logo=bilibili" >
 </a>
