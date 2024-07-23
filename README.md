@@ -3,4 +3,4 @@
 
 <a href="https://space.bilibili.com/281356255" target="_blank"><img src="https://img.shields.io/badge/Bilibili-%E4%B8%BA%E6%88%91%E5%85%85%E7%94%B5-%2310ADEC?style=for-the-badge&logo=bilibili"></a>
 <a href="https://patreon.com/jerryshell" target="_blank"><img src="https://img.shields.io/badge/patreon-buy%20me%20a%20coffee-%23FF424D?style=for-the-badge&logo=patreon"></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/Onlyfans-Support%20Me-00aff0?style=for-the-badge&logo=onlyfans"></a>
+<a href="https://jerryshell.eu.org/onlyfans" target="_blank"><img src="https://img.shields.io/badge/Onlyfans-Support%20Me-00aff0?style=for-the-badge&logo=onlyfans"></a>
